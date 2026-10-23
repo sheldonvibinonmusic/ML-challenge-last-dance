@@ -37,7 +37,7 @@ TIC924387110,starspots
 TIC982571245,starspots
 TIC978880389,starspots
 TIC925179143,planet
-TIC927251668,pulsating_star
+TIC927251668,starspots
 TIC934795803,starspots
 TIC932294789,starspots
 TIC971956908,instrument_glitch
@@ -47,7 +47,7 @@ TIC993677177,starspots
 TIC933031758,planet
 TIC913741789,quiet_star
 TIC991179346,pulsating_star
-TIC967873885,eclipsing_binary
+TIC967873885,planet
 TIC948136322,eclipsing_binary
 TIC990335361,pulsating_star
 TIC949668999,pulsating_star
@@ -80,7 +80,7 @@ TIC994495716,instrument_glitch
 TIC984009190,eclipsing_binary
 TIC939371600,quiet_star
 TIC917921533,planet
-TIC96488404,eclipsing_binary
+TIC96488404,planet
 TIC935328464,instrument_glitch
 TIC939614845,pulsating_star
 TIC919570629,flare_star
@@ -113,7 +113,7 @@ TIC961438285,starspots
 TIC970184486,instrument_glitch
 TIC987181966,starspots
 TIC917878819,eclipsing_binary
-TIC976640586,quiet_star
+TIC976640586,instrument_glitch
 TIC986918894,quiet_star
 TIC91593804,quiet_star
 TIC96663366,planet
@@ -142,7 +142,7 @@ TIC932366046,starspots
 TIC978644523,starspots
 TIC973417065,planet
 TIC995226901,eclipsing_binary
-TIC90383552,pulsating_star
+TIC90383552,instrument_glitch
 TIC941646908,starspots
 TIC924487298,quiet_star
 TIC994286491,planet
@@ -160,7 +160,7 @@ TIC903530617,eclipsing_binary
 TIC914688841,eclipsing_binary
 TIC998043103,starspots
 TIC953969543,starspots
-TIC964663283,pulsating_star
+TIC964663283,quiet_star
 TIC957217570,eclipsing_binary
 TIC992914960,starspots
 TIC903735403,starspots
@@ -183,7 +183,7 @@ TIC951598980,instrument_glitch
 TIC956877257,starspots
 TIC986614309,planet
 TIC978797093,planet
-TIC972427487,starspots
+TIC972427487,planet
 TIC979128091,instrument_glitch
 TIC922888581,starspots
 TIC957700289,background_binary
@@ -225,14 +225,14 @@ TIC936404817,planet
 TIC933701397,starspots
 TIC973170467,eclipsing_binary
 TIC973069372,instrument_glitch
-TIC999225891,starspots
+TIC999225891,instrument_glitch
 TIC919940716,instrument_glitch
 TIC91819103,starspots
 TIC904022674,starspots
 TIC918746930,eclipsing_binary
 TIC924595150,flare_star
 TIC988573984,eclipsing_binary
-TIC985627339,starspots
+TIC985627339,planet
 TIC925012474,quiet_star
 TIC920567991,starspots
 TIC959909034,planet
@@ -250,7 +250,7 @@ TIC966883029,instrument_glitch
 TIC907879875,quiet_star
 TIC991655677,starspots
 TIC927762871,pulsating_star
-TIC922059988,flare_star
+TIC922059988,instrument_glitch
 TIC944500789,background_binary
 TIC940495076,starspots
 TIC997745491,background_binary
@@ -306,7 +306,7 @@ TIC955317554,planet
 TIC959093933,starspots
 TIC994177555,planet
 TIC931897841,instrument_glitch
-TIC924365925,instrument_glitch
+TIC924365925,planet
 TIC988850339,starspots
 TIC961664746,planet
 TIC921811720,starspots
@@ -341,7 +341,7 @@ TIC963678372,quiet_star
 TIC977266052,flare_star
 TIC99222975,instrument_glitch
 TIC989328103,quiet_star
-TIC991030414,quiet_star
+TIC991030414,planet
 TIC939248175,starspots
 TIC992311333,starspots
 TIC996568437,eclipsing_binary
@@ -492,7 +492,7 @@ TIC992400451,planet
 TIC933508291,starspots
 TIC995165288,starspots
 TIC981603736,background_binary
-TIC902053150,starspots
+TIC902053150,instrument_glitch
 TIC975475448,instrument_glitch
 TIC931611263,planet
 TIC986690935,planet
@@ -558,7 +558,7 @@ TIC907727356,starspots
 TIC991653799,starspots
 TIC914247130,starspots
 TIC931852817,flare_star
-TIC917663850,quiet_star
+TIC917663850,planet
 TIC926940327,flare_star
 TIC91896555,flare_star
 TIC905008683,instrument_glitch
@@ -682,10 +682,10 @@ TIC902248537,starspots
 TIC974058839,pulsating_star
 TIC903356837,starspots
 TIC904102002,instrument_glitch
-TIC90158787,starspots
+TIC90158787,planet
 TIC908105843,quiet_star
 TIC937952437,instrument_glitch
-TIC917710669,starspots
+TIC917710669,instrument_glitch
 TIC977870944,quiet_star
 TIC993857879,starspots
 TIC920306794,planet
@@ -702,7 +702,7 @@ TIC966710719,starspots
 TIC919535933,starspots
 TIC925242979,starspots
 TIC922339226,planet
-TIC951448823,starspots
+TIC951448823,flare_star
 TIC938609559,quiet_star
 TIC989984945,instrument_glitch
 TIC947287312,starspots
@@ -722,7 +722,7 @@ TIC933821598,starspots
 TIC906851022,quiet_star
 TIC921409128,background_binary
 TIC917558097,instrument_glitch
-TIC957057112,background_binary
+TIC957057112,planet
 TIC910928565,pulsating_star
 TIC989355127,instrument_glitch
 TIC936516298,instrument_glitch
@@ -737,7 +737,7 @@ TIC949798978,instrument_glitch
 TIC982555113,planet
 TIC991129142,quiet_star
 TIC945297953,eclipsing_binary
-TIC933845347,quiet_star
+TIC933845347,planet
 TIC929561154,starspots
 TIC959387268,eclipsing_binary
 TIC982147622,planet
@@ -832,7 +832,7 @@ TIC911048912,quiet_star
 TIC988918995,starspots
 TIC90529520,starspots
 TIC918208545,starspots
-TIC917746120,starspots
+TIC917746120,instrument_glitch
 TIC980557893,instrument_glitch
 TIC93846653,instrument_glitch
 TIC91601201,starspots
@@ -866,7 +866,7 @@ TIC916102433,starspots
 TIC904700817,flare_star
 TIC937109073,quiet_star
 TIC915521838,starspots
-TIC928552444,starspots
+TIC928552444,planet
 TIC901786954,starspots
 TIC942665828,quiet_star
 TIC978892275,pulsating_star
@@ -913,12 +913,12 @@ TIC997116774,planet
 TIC929877082,instrument_glitch
 TIC922967832,quiet_star
 TIC907016547,starspots
-TIC929107258,starspots
+TIC929107258,instrument_glitch
 TIC989429483,eclipsing_binary
 TIC964758606,starspots
 TIC932545171,quiet_star
 TIC967612165,starspots
-TIC941201362,quiet_star
+TIC941201362,flare_star
 TIC906399157,planet
 TIC93689510,starspots
 TIC917590815,starspots
@@ -979,11 +979,11 @@ TIC919063023,background_binary
 TIC925425451,planet
 TIC993140424,flare_star
 TIC940363913,flare_star
-TIC971809636,eclipsing_binary
+TIC971809636,planet
 TIC930696381,instrument_glitch
 TIC915629108,pulsating_star
 TIC915974267,starspots
-TIC915478726,starspots
+TIC915478726,flare_star
 TIC919001046,pulsating_star
 TIC934913245,starspots
 TIC926543161,starspots
@@ -1003,7 +1003,7 @@ TIC977561749,planet
 TIC900570339,instrument_glitch
 TIC962940799,starspots
 TIC926590180,pulsating_star
-TIC966594139,eclipsing_binary
+TIC966594139,planet
 TIC930963969,quiet_star
 TIC929468369,flare_star
 TIC987221214,planet
@@ -1058,14 +1058,14 @@ TIC953265504,planet
 TIC972852930,pulsating_star
 TIC952687854,pulsating_star
 TIC994334686,flare_star
-TIC921895285,eclipsing_binary
+TIC921895285,instrument_glitch
 TIC941843347,quiet_star
 TIC928433035,instrument_glitch
 TIC997279657,background_binary
 TIC929196972,background_binary
 TIC903856033,background_binary
 TIC98206329,instrument_glitch
-TIC970806617,starspots
+TIC970806617,instrument_glitch
 TIC921217080,instrument_glitch
 TIC98459337,pulsating_star
 TIC978412761,flare_star
@@ -1075,7 +1075,7 @@ TIC925728054,instrument_glitch
 TIC938278883,planet
 TIC930584995,planet
 TIC942804787,pulsating_star
-TIC918972197,quiet_star
+TIC918972197,starspots
 TIC971206113,quiet_star
 TIC976427840,starspots
 TIC938610237,eclipsing_binary
@@ -1087,7 +1087,7 @@ TIC982172132,starspots
 TIC901504472,pulsating_star
 TIC931269862,quiet_star
 TIC938503110,background_binary
-TIC968356443,pulsating_star
+TIC968356443,starspots
 TIC992471504,pulsating_star
 TIC915543749,quiet_star
 TIC982148009,instrument_glitch
@@ -1147,7 +1147,7 @@ TIC941179437,instrument_glitch
 TIC982075644,instrument_glitch
 TIC909564305,starspots
 TIC948090453,eclipsing_binary
-TIC917680171,quiet_star
+TIC917680171,planet
 TIC917327417,flare_star
 TIC94503038,pulsating_star
 TIC913117193,quiet_star
@@ -1184,7 +1184,7 @@ TIC967850163,background_binary
 TIC952908169,pulsating_star
 TIC980924648,quiet_star
 TIC965471918,pulsating_star
-TIC914506818,flare_star
+TIC914506818,instrument_glitch
 TIC929062775,pulsating_star
 TIC95554176,starspots
 TIC981311119,instrument_glitch
@@ -1233,7 +1233,7 @@ TIC904752930,planet
 TIC955137150,planet
 TIC962153858,planet
 TIC900195813,quiet_star
-TIC982209673,flare_star
+TIC982209673,quiet_star
 TIC972139059,instrument_glitch
 TIC91215414,flare_star
 TIC97203181,instrument_glitch
@@ -1293,7 +1293,7 @@ TIC953542360,pulsating_star
 TIC935514738,eclipsing_binary
 TIC907060959,eclipsing_binary
 TIC954718132,flare_star
-TIC911065553,pulsating_star
+TIC911065553,planet
 TIC969222725,starspots
 TIC924135616,instrument_glitch
 TIC932053047,flare_star
@@ -1347,7 +1347,7 @@ TIC912705950,starspots
 TIC984497509,planet
 TIC947515923,instrument_glitch
 TIC97999927,instrument_glitch
-TIC972925726,quiet_star
+TIC972925726,planet
 TIC934907287,quiet_star
 TIC909626403,planet
 TIC972753002,background_binary
@@ -1448,7 +1448,7 @@ TIC987045303,starspots
 TIC90511832,starspots
 TIC91607414,starspots
 TIC991404659,flare_star
-TIC992994395,planet
+TIC992994395,instrument_glitch
 TIC910081636,flare_star
 TIC942431534,planet
 TIC924952485,pulsating_star
@@ -1462,7 +1462,7 @@ TIC918908566,planet
 TIC962844246,pulsating_star
 TIC970575785,starspots
 TIC913324236,planet
-TIC950839633,starspots
+TIC950839633,planet
 TIC901068749,starspots
 TIC955125214,starspots
 TIC927847554,starspots
@@ -1525,7 +1525,7 @@ TIC951386486,planet
 TIC900087471,pulsating_star
 TIC903192603,instrument_glitch
 TIC983651822,instrument_glitch
-TIC926376123,eclipsing_binary
+TIC926376123,background_binary
 TIC968423288,starspots
 TIC950802269,eclipsing_binary
 TIC980891719,starspots
@@ -1584,7 +1584,7 @@ TIC992286664,pulsating_star
 TIC923385881,starspots
 TIC915696594,quiet_star
 TIC945082554,quiet_star
-TIC979816900,pulsating_star
+TIC979816900,quiet_star
 TIC971112735,pulsating_star
 TIC967099852,starspots
 TIC926527467,pulsating_star
@@ -1679,7 +1679,7 @@ TIC974130402,starspots
 TIC910343688,pulsating_star
 TIC924862907,starspots
 TIC952568898,flare_star
-TIC938794235,flare_star
+TIC938794235,instrument_glitch
 TIC902451746,starspots
 TIC940500049,pulsating_star
 TIC986505469,planet
@@ -1693,7 +1693,7 @@ TIC905958048,starspots
 TIC936948381,quiet_star
 TIC920429908,background_binary
 TIC993498475,pulsating_star
-TIC959904295,flare_star
+TIC959904295,starspots
 TIC922707450,starspots
 TIC982611261,starspots
 TIC912878664,pulsating_star
@@ -1742,7 +1742,7 @@ TIC958580083,eclipsing_binary
 TIC955350262,instrument_glitch
 TIC936815449,planet
 TIC974361850,pulsating_star
-TIC928073285,starspots
+TIC928073285,instrument_glitch
 TIC958621339,planet
 TIC978923997,planet
 TIC968572276,flare_star
@@ -1772,7 +1772,7 @@ TIC983039906,flare_star
 TIC987343100,pulsating_star
 TIC921944337,quiet_star
 TIC92758820,quiet_star
-TIC950758858,pulsating_star
+TIC950758858,starspots
 TIC933794694,pulsating_star
 TIC959512041,instrument_glitch
 TIC950284927,instrument_glitch
@@ -1892,7 +1892,7 @@ TIC970695351,planet
 TIC966682374,starspots
 TIC981786971,starspots
 TIC983777757,instrument_glitch
-TIC900316153,pulsating_star
+TIC900316153,instrument_glitch
 TIC991336968,background_binary
 TIC90846195,background_binary
 TIC979208446,planet
@@ -1911,7 +1911,7 @@ TIC939586994,pulsating_star
 TIC900580197,planet
 TIC983834906,quiet_star
 TIC977418210,eclipsing_binary
-TIC976495766,eclipsing_binary
+TIC976495766,background_binary
 TIC959281220,instrument_glitch
 TIC912210559,planet
 TIC907511837,instrument_glitch
@@ -1934,7 +1934,7 @@ TIC940350605,starspots
 TIC970740560,planet
 TIC957550278,flare_star
 TIC95762400,eclipsing_binary
-TIC932801867,quiet_star
+TIC932801867,planet
 TIC984268598,starspots
 TIC995097572,background_binary
 TIC91898616,planet
@@ -2022,7 +2022,7 @@ TIC949045842,starspots
 TIC992889304,starspots
 TIC986762392,background_binary
 TIC914216099,quiet_star
-TIC903523486,quiet_star
+TIC903523486,starspots
 TIC972020226,quiet_star
 TIC905790250,quiet_star
 TIC941727296,starspots
@@ -2038,7 +2038,7 @@ TIC953178991,planet
 TIC911477133,planet
 TIC941226495,instrument_glitch
 TIC97863259,instrument_glitch
-TIC932151598,pulsating_star
+TIC932151598,starspots
 TIC906501463,pulsating_star
 TIC934639238,background_binary
 TIC971468888,planet
@@ -2078,8 +2078,8 @@ TIC921768670,background_binary
 TIC927279882,instrument_glitch
 TIC979098426,quiet_star
 TIC94040450,starspots
-TIC993557909,eclipsing_binary
-TIC959735082,quiet_star
+TIC993557909,background_binary
+TIC959735082,planet
 TIC963401946,planet
 TIC988747376,quiet_star
 TIC923774429,flare_star
@@ -2110,7 +2110,7 @@ TIC913851484,instrument_glitch
 TIC967001300,quiet_star
 TIC935819164,pulsating_star
 TIC973269668,eclipsing_binary
-TIC939127995,pulsating_star
+TIC939127995,planet
 TIC92444023,pulsating_star
 TIC99773404,starspots
 TIC966951351,planet
@@ -2167,7 +2167,7 @@ TIC968900755,quiet_star
 TIC942327375,instrument_glitch
 TIC938687745,background_binary
 TIC996148693,eclipsing_binary
-TIC914237347,background_binary
+TIC914237347,eclipsing_binary
 TIC943049096,eclipsing_binary
 TIC919112104,starspots
 TIC954256327,eclipsing_binary
@@ -2195,7 +2195,7 @@ TIC961782417,starspots
 TIC954682724,starspots
 TIC986167108,pulsating_star
 TIC95804739,quiet_star
-TIC96385875,flare_star
+TIC96385875,starspots
 TIC919843914,starspots
 TIC900671898,starspots
 TIC920315439,quiet_star
@@ -2266,7 +2266,7 @@ TIC923376819,pulsating_star
 TIC98614363,starspots
 TIC916490797,starspots
 TIC90239255,starspots
-TIC993445659,pulsating_star
+TIC993445659,planet
 TIC937365311,starspots
 TIC92189655,eclipsing_binary
 TIC961601075,planet
@@ -2287,7 +2287,7 @@ TIC992446268,starspots
 TIC920150854,instrument_glitch
 TIC99765712,flare_star
 TIC943806779,starspots
-TIC917757975,starspots
+TIC917757975,planet
 TIC939448890,eclipsing_binary
 TIC995310770,starspots
 TIC917834399,pulsating_star
@@ -2295,7 +2295,7 @@ TIC949386290,starspots
 TIC940278645,planet
 TIC960965608,eclipsing_binary
 TIC93580940,instrument_glitch
-TIC92817745,pulsating_star
+TIC92817745,quiet_star
 TIC98623830,flare_star
 TIC936764467,starspots
 TIC939377826,instrument_glitch
@@ -2373,7 +2373,7 @@ TIC921149219,instrument_glitch
 TIC925339759,instrument_glitch
 TIC999199395,eclipsing_binary
 TIC971032445,planet
-TIC96477965,quiet_star
+TIC96477965,planet
 TIC954030484,quiet_star
 TIC990051255,planet
 TIC94707218,instrument_glitch
@@ -2402,7 +2402,7 @@ TIC914490559,planet
 TIC979747471,starspots
 TIC975772821,pulsating_star
 TIC937020355,flare_star
-TIC956398310,quiet_star
+TIC956398310,planet
 TIC992958255,instrument_glitch
 TIC998403622,planet
 TIC979611552,planet
@@ -2423,7 +2423,7 @@ TIC904587114,instrument_glitch
 TIC918424980,starspots
 TIC961581465,eclipsing_binary
 TIC920673990,eclipsing_binary
-TIC951106160,eclipsing_binary
+TIC951106160,planet
 TIC963694137,planet
 TIC973021163,instrument_glitch
 TIC946882094,instrument_glitch
@@ -2453,7 +2453,7 @@ TIC995205558,planet
 TIC976934651,quiet_star
 TIC952294570,eclipsing_binary
 TIC941118757,pulsating_star
-TIC907434297,pulsating_star
+TIC907434297,quiet_star
 TIC982694141,flare_star
 TIC94667572,eclipsing_binary
 TIC920229183,instrument_glitch
@@ -2505,7 +2505,7 @@ TIC994888445,planet
 TIC979261033,instrument_glitch
 TIC90617885,quiet_star
 TIC973677705,flare_star
-TIC941645167,starspots
+TIC941645167,planet
 TIC99831565,instrument_glitch
 TIC950121092,quiet_star
 TIC984520976,background_binary
@@ -2711,7 +2711,7 @@ TIC911680414,starspots
 TIC938694404,pulsating_star
 TIC959640730,pulsating_star
 TIC906058498,starspots
-TIC987791496,pulsating_star
+TIC987791496,starspots
 TIC939518355,pulsating_star
 TIC960605402,starspots
 TIC90991681,eclipsing_binary
@@ -2813,7 +2813,7 @@ TIC959870797,planet
 TIC917981330,starspots
 TIC962245016,instrument_glitch
 TIC991023690,background_binary
-TIC954800529,eclipsing_binary
+TIC954800529,planet
 TIC962945370,quiet_star
 TIC999707249,background_binary
 TIC968540097,starspots
@@ -2884,7 +2884,7 @@ TIC959939911,instrument_glitch
 TIC942622677,eclipsing_binary
 TIC91805874,starspots
 TIC988656746,eclipsing_binary
-TIC946500929,background_binary
+TIC946500929,planet
 TIC904163507,quiet_star
 TIC912075310,eclipsing_binary
 TIC959699487,flare_star
@@ -3035,7 +3035,7 @@ TIC909461108,starspots
 TIC944476033,quiet_star
 TIC902973537,flare_star
 TIC992167535,starspots
-TIC975027797,starspots
+TIC975027797,planet
 TIC989161129,starspots
 TIC962043366,quiet_star
 TIC948599243,planet
@@ -3045,7 +3045,7 @@ TIC946290346,pulsating_star
 TIC909855402,background_binary
 TIC935372324,planet
 TIC947850876,background_binary
-TIC942792043,eclipsing_binary
+TIC942792043,background_binary
 TIC902320951,instrument_glitch
 TIC967940272,planet
 TIC940443240,eclipsing_binary
@@ -3053,7 +3053,7 @@ TIC983852478,starspots
 TIC967432527,starspots
 TIC989791999,starspots
 TIC98620057,starspots
-TIC955293413,starspots
+TIC955293413,instrument_glitch
 TIC96865008,quiet_star
 TIC991016421,planet
 TIC995654068,flare_star
@@ -3099,7 +3099,7 @@ TIC981941392,pulsating_star
 TIC918930275,instrument_glitch
 TIC910447374,planet
 TIC944909808,starspots
-TIC992934707,eclipsing_binary
+TIC992934707,background_binary
 TIC956276229,instrument_glitch
 TIC988776262,planet
 TIC97732996,eclipsing_binary
@@ -3131,7 +3131,7 @@ TIC965501775,instrument_glitch
 TIC949071713,pulsating_star
 TIC993989451,starspots
 TIC999988910,flare_star
-TIC938358484,quiet_star
+TIC938358484,planet
 TIC941447352,quiet_star
 TIC998077683,starspots
 TIC950696052,eclipsing_binary
@@ -3322,7 +3322,7 @@ TIC977995969,eclipsing_binary
 TIC908465578,quiet_star
 TIC975320201,eclipsing_binary
 TIC975056305,starspots
-TIC941234758,starspots
+TIC941234758,planet
 TIC965213630,planet
 TIC973079096,planet
 TIC967565688,starspots
@@ -3388,7 +3388,7 @@ TIC940038136,pulsating_star
 TIC974946732,starspots
 TIC99912287,starspots
 TIC90772146,starspots
-TIC96729381,starspots
+TIC96729381,planet
 TIC982611802,quiet_star
 TIC969303107,planet
 TIC945187486,pulsating_star
@@ -3406,7 +3406,7 @@ TIC943328820,starspots
 TIC940879129,planet
 TIC917450228,pulsating_star
 TIC919281041,pulsating_star
-TIC903591774,quiet_star
+TIC903591774,flare_star
 TIC959923064,starspots
 TIC977634247,flare_star
 TIC982327954,pulsating_star
@@ -3469,7 +3469,7 @@ TIC982430219,instrument_glitch
 TIC971809011,quiet_star
 TIC995538997,planet
 TIC96509368,quiet_star
-TIC945628252,starspots
+TIC945628252,flare_star
 TIC978084586,starspots
 TIC915423008,starspots
 TIC967054007,pulsating_star
@@ -3575,7 +3575,7 @@ TIC951563747,eclipsing_binary
 TIC981161889,planet
 TIC952334682,planet
 TIC974552631,instrument_glitch
-TIC966756034,starspots
+TIC966756034,instrument_glitch
 TIC934585382,starspots
 TIC984840894,starspots
 TIC973072330,starspots
@@ -3618,7 +3618,7 @@ TIC906466682,pulsating_star
 TIC993578629,quiet_star
 TIC932918181,starspots
 TIC996676627,quiet_star
-TIC912912992,quiet_star
+TIC912912992,starspots
 TIC966796246,pulsating_star
 TIC928853327,background_binary
 TIC91194441,instrument_glitch
@@ -3648,7 +3648,7 @@ TIC971972310,instrument_glitch
 TIC945199462,quiet_star
 TIC964914750,pulsating_star
 TIC921668207,quiet_star
-TIC952865946,quiet_star
+TIC952865946,starspots
 TIC983211671,flare_star
 TIC915437696,quiet_star
 TIC969000243,instrument_glitch
@@ -3674,7 +3674,7 @@ TIC955103405,flare_star
 TIC980692108,starspots
 TIC952557622,quiet_star
 TIC944250572,quiet_star
-TIC996259785,pulsating_star
+TIC996259785,instrument_glitch
 TIC937039429,starspots
 TIC908651528,planet
 TIC926032340,starspots
@@ -3773,7 +3773,7 @@ TIC983822775,instrument_glitch
 TIC994773366,starspots
 TIC997720380,instrument_glitch
 TIC906471955,planet
-TIC991213728,quiet_star
+TIC991213728,starspots
 TIC944920192,starspots
 TIC985953273,pulsating_star
 TIC995170904,instrument_glitch
@@ -3819,7 +3819,7 @@ TIC99102446,quiet_star
 TIC980298196,starspots
 TIC927539850,eclipsing_binary
 TIC917870772,starspots
-TIC957396200,quiet_star
+TIC957396200,starspots
 TIC966065412,planet
 TIC97038698,starspots
 TIC929951624,planet
@@ -3975,7 +3975,7 @@ TIC970696392,pulsating_star
 TIC929001099,instrument_glitch
 TIC977413187,pulsating_star
 TIC965373923,instrument_glitch
-TIC999725694,pulsating_star
+TIC999725694,instrument_glitch
 TIC911283445,planet
 TIC999510465,instrument_glitch
 TIC947453770,starspots
@@ -3997,7 +3997,7 @@ TIC901105354,starspots
 TIC966633419,starspots
 TIC933832371,flare_star
 TIC963058230,starspots
-TIC959647847,pulsating_star
+TIC959647847,planet
 TIC950400042,flare_star
 TIC974238571,quiet_star
 TIC971951398,instrument_glitch
@@ -4185,7 +4185,7 @@ TIC914360643,eclipsing_binary
 TIC957979261,starspots
 TIC971826475,pulsating_star
 TIC979826214,eclipsing_binary
-TIC956683630,starspots
+TIC956683630,instrument_glitch
 TIC956086358,starspots
 TIC966589863,starspots
 TIC901108081,starspots
@@ -4249,7 +4249,7 @@ TIC99287523,starspots
 TIC971240173,starspots
 TIC950609795,instrument_glitch
 TIC936582037,background_binary
-TIC933589326,starspots
+TIC933589326,flare_star
 TIC914238290,instrument_glitch
 TIC987015906,planet
 TIC945527435,starspots
@@ -4273,7 +4273,7 @@ TIC984448348,eclipsing_binary
 TIC905127138,starspots
 TIC901560945,planet
 TIC90178698,starspots
-TIC979574841,quiet_star
+TIC979574841,planet
 TIC955125431,instrument_glitch
 TIC930471672,planet
 TIC926302240,instrument_glitch
@@ -4309,7 +4309,7 @@ TIC981871074,pulsating_star
 TIC909246146,starspots
 TIC978920274,planet
 TIC991457740,starspots
-TIC910069719,quiet_star
+TIC910069719,starspots
 TIC923965117,flare_star
 TIC950297842,background_binary
 TIC964426412,starspots
@@ -4367,7 +4367,7 @@ TIC994547203,eclipsing_binary
 TIC977379213,quiet_star
 TIC975701341,planet
 TIC996567570,planet
-TIC993035136,starspots
+TIC993035136,instrument_glitch
 TIC931075784,planet
 TIC961682814,starspots
 TIC951423802,flare_star
@@ -4416,7 +4416,7 @@ TIC96349957,planet
 TIC93760053,instrument_glitch
 TIC941440923,starspots
 TIC991739655,starspots
-TIC910013125,pulsating_star
+TIC910013125,starspots
 TIC941403951,starspots
 TIC927098212,background_binary
 TIC974891493,starspots
@@ -4468,7 +4468,7 @@ TIC907227035,starspots
 TIC958823851,eclipsing_binary
 TIC930360021,background_binary
 TIC986683802,flare_star
-TIC956956156,quiet_star
+TIC956956156,pulsating_star
 TIC943055105,starspots
 TIC942121437,quiet_star
 TIC963703545,starspots
@@ -4527,7 +4527,7 @@ TIC928988064,pulsating_star
 TIC975317086,background_binary
 TIC900273624,starspots
 TIC923300145,background_binary
-TIC947899955,starspots
+TIC947899955,planet
 TIC919716089,planet
 TIC949481738,pulsating_star
 TIC99235569,flare_star
@@ -4649,7 +4649,7 @@ TIC926992678,starspots
 TIC918704156,flare_star
 TIC95973921,background_binary
 TIC942194087,pulsating_star
-TIC999371124,starspots
+TIC999371124,background_binary
 TIC919437115,eclipsing_binary
 TIC946641562,pulsating_star
 TIC970027522,eclipsing_binary
@@ -4664,7 +4664,7 @@ TIC98523938,starspots
 TIC921341980,starspots
 TIC974424695,starspots
 TIC92148769,starspots
-TIC951154816,pulsating_star
+TIC951154816,quiet_star
 TIC961011209,starspots
 TIC913261670,instrument_glitch
 TIC921240141,instrument_glitch
@@ -4701,7 +4701,7 @@ TIC945543619,starspots
 TIC985707916,background_binary
 TIC939811444,planet
 TIC946269081,starspots
-TIC933663190,starspots
+TIC933663190,planet
 TIC938394654,planet
 TIC97701820,pulsating_star
 TIC948995189,starspots
@@ -4728,7 +4728,7 @@ TIC936127983,starspots
 TIC951801825,background_binary
 TIC934513416,quiet_star
 TIC907885588,flare_star
-TIC920406068,starspots
+TIC920406068,planet
 TIC973150470,eclipsing_binary
 TIC989644830,quiet_star
 TIC902704427,starspots
@@ -4740,12 +4740,12 @@ TIC975869262,background_binary
 TIC901802928,background_binary
 TIC934195317,background_binary
 TIC935828162,quiet_star
-TIC959690014,background_binary
-TIC920678573,background_binary
+TIC959690014,planet
+TIC920678573,planet
 TIC926773195,instrument_glitch
 TIC919479029,eclipsing_binary
 TIC921905562,background_binary
-TIC98424612,starspots
+TIC98424612,instrument_glitch
 TIC930769640,instrument_glitch
 TIC980826821,starspots
 TIC938745487,instrument_glitch
@@ -4870,7 +4870,7 @@ TIC994478804,quiet_star
 TIC982533827,starspots
 TIC92180345,starspots
 TIC926612960,starspots
-TIC911497671,pulsating_star
+TIC911497671,starspots
 TIC964313702,instrument_glitch
 TIC991180781,pulsating_star
 TIC993595046,planet
@@ -4895,7 +4895,7 @@ TIC997785225,flare_star
 TIC959854684,quiet_star
 TIC938039189,starspots
 TIC992394558,planet
-TIC90160827,starspots
+TIC90160827,planet
 TIC923768336,starspots
 TIC926160356,planet
 TIC957722608,planet
@@ -4991,13 +4991,13 @@ TIC931633258,flare_star
 TIC956866954,quiet_star
 TIC957692273,planet
 TIC952487376,starspots
-TIC967196138,planet
+TIC967196138,instrument_glitch
 TIC913094919,starspots
 TIC909261273,flare_star
 TIC992704084,pulsating_star
 TIC922858494,flare_star
 TIC963820452,eclipsing_binary
-TIC95032672,pulsating_star
+TIC95032672,planet
 TIC932166840,eclipsing_binary
 TIC958561269,planet
 TIC924390975,quiet_star
@@ -5189,7 +5189,7 @@ TIC932229423,pulsating_star
 TIC939760163,quiet_star
 TIC926164554,starspots
 TIC992622540,background_binary
-TIC925638181,pulsating_star
+TIC925638181,planet
 TIC98194914,pulsating_star
 TIC96060195,instrument_glitch
 TIC901106553,instrument_glitch
@@ -5211,7 +5211,7 @@ TIC951834509,starspots
 TIC95581229,starspots
 TIC953629554,pulsating_star
 TIC917326189,instrument_glitch
-TIC907850214,starspots
+TIC907850214,quiet_star
 TIC954215866,instrument_glitch
 TIC955184168,starspots
 TIC903350342,instrument_glitch
@@ -5275,7 +5275,7 @@ TIC931739551,starspots
 TIC935821232,starspots
 TIC915611577,starspots
 TIC915066299,starspots
-TIC988083629,quiet_star
+TIC988083629,planet
 TIC947382848,starspots
 TIC98468733,starspots
 TIC966258414,instrument_glitch
@@ -5344,7 +5344,7 @@ TIC983579125,quiet_star
 TIC901483259,starspots
 TIC981811573,background_binary
 TIC905556396,background_binary
-TIC937418390,pulsating_star
+TIC937418390,instrument_glitch
 TIC959113843,planet
 TIC981229497,instrument_glitch
 TIC960776585,pulsating_star
@@ -5358,7 +5358,7 @@ TIC953705340,planet
 TIC954664896,pulsating_star
 TIC926970417,quiet_star
 TIC985968481,starspots
-TIC925633708,quiet_star
+TIC925633708,instrument_glitch
 TIC909374723,instrument_glitch
 TIC935323245,starspots
 TIC969022317,planet
@@ -5396,10 +5396,10 @@ TIC970936203,flare_star
 TIC924980320,starspots
 TIC975449397,starspots
 TIC920118287,eclipsing_binary
-TIC939597170,pulsating_star
+TIC939597170,planet
 TIC940019271,eclipsing_binary
 TIC923336216,pulsating_star
-TIC908131657,quiet_star
+TIC908131657,starspots
 TIC951208148,flare_star
 TIC97409459,starspots
 TIC937343750,starspots
@@ -5442,14 +5442,14 @@ TIC91097903,planet
 TIC932367958,background_binary
 TIC987177556,planet
 TIC968109950,pulsating_star
-TIC944105545,starspots
+TIC944105545,instrument_glitch
 TIC910820664,starspots
 TIC959910031,starspots
 TIC95311745,planet
 TIC956754625,quiet_star
 TIC963346835,instrument_glitch
 TIC952098273,eclipsing_binary
-TIC948302556,quiet_star
+TIC948302556,planet
 TIC970298228,pulsating_star
 TIC906428490,planet
 TIC930883276,eclipsing_binary
@@ -5460,7 +5460,7 @@ TIC963960171,flare_star
 TIC990932181,instrument_glitch
 TIC95649432,pulsating_star
 TIC919836900,eclipsing_binary
-TIC974486257,planet
+TIC974486257,quiet_star
 TIC907070018,starspots
 TIC913118849,background_binary
 TIC999058543,flare_star
@@ -5494,7 +5494,7 @@ TIC935228265,quiet_star
 TIC947551589,quiet_star
 TIC926680836,instrument_glitch
 TIC996263476,flare_star
-TIC901339182,pulsating_star
+TIC901339182,instrument_glitch
 TIC920385547,eclipsing_binary
 TIC919883153,pulsating_star
 TIC995261118,starspots
@@ -5642,7 +5642,7 @@ TIC995848939,starspots
 TIC983356325,quiet_star
 TIC947782186,flare_star
 TIC927856406,planet
-TIC972608604,flare_star
+TIC972608604,starspots
 TIC900683958,quiet_star
 TIC925548239,planet
 TIC912164264,flare_star
@@ -5805,7 +5805,7 @@ TIC922028751,starspots
 TIC984839436,quiet_star
 TIC951873056,starspots
 TIC966550461,planet
-TIC903027101,starspots
+TIC903027101,planet
 TIC998405803,pulsating_star
 TIC972871878,starspots
 TIC996998090,starspots
@@ -5821,7 +5821,7 @@ TIC91707976,quiet_star
 TIC902864996,starspots
 TIC965649285,instrument_glitch
 TIC91077923,starspots
-TIC992848988,background_binary
+TIC992848988,eclipsing_binary
 TIC933465594,flare_star
 TIC965080249,starspots
 TIC902611523,instrument_glitch
@@ -5891,7 +5891,7 @@ TIC974461260,background_binary
 TIC908110268,starspots
 TIC971390277,planet
 TIC971030050,starspots
-TIC998162238,flare_star
+TIC998162238,starspots
 TIC978030109,eclipsing_binary
 TIC965610018,planet
 TIC985167071,eclipsing_binary
@@ -5980,7 +5980,7 @@ TIC957501301,quiet_star
 TIC91393522,starspots
 TIC94646786,planet
 TIC967037201,quiet_star
-TIC984256465,starspots
+TIC984256465,planet
 TIC988972844,flare_star
 TIC950259982,starspots
 TIC927486114,eclipsing_binary
@@ -6031,7 +6031,7 @@ TIC930311762,eclipsing_binary
 TIC96689571,flare_star
 TIC971362126,instrument_glitch
 TIC920887065,quiet_star
-TIC909956229,quiet_star
+TIC909956229,planet
 TIC903938841,pulsating_star
 TIC965331739,starspots
 TIC962491084,starspots
@@ -6115,7 +6115,7 @@ TIC915513799,starspots
 TIC912162428,pulsating_star
 TIC939764525,starspots
 TIC980177389,starspots
-TIC955010151,starspots
+TIC955010151,planet
 TIC99377624,eclipsing_binary
 TIC973391961,planet
 TIC933224277,pulsating_star
@@ -6131,7 +6131,7 @@ TIC909309723,pulsating_star
 TIC979869598,instrument_glitch
 TIC955159994,flare_star
 TIC900551333,starspots
-TIC964300392,starspots
+TIC964300392,instrument_glitch
 TIC96506171,instrument_glitch
 TIC966937384,pulsating_star
 TIC948527156,pulsating_star
@@ -6194,7 +6194,7 @@ TIC990426546,planet
 TIC928069103,planet
 TIC937898635,eclipsing_binary
 TIC906000638,quiet_star
-TIC962370175,pulsating_star
+TIC962370175,quiet_star
 TIC977778362,quiet_star
 TIC91644104,planet
 TIC927478476,starspots
@@ -6313,7 +6313,7 @@ TIC993620483,starspots
 TIC983546026,eclipsing_binary
 TIC981540695,planet
 TIC969735298,quiet_star
-TIC977551150,background_binary
+TIC977551150,starspots
 TIC961009582,pulsating_star
 TIC960154185,planet
 TIC910942182,background_binary
@@ -6349,7 +6349,7 @@ TIC994592707,quiet_star
 TIC910894438,planet
 TIC974979715,quiet_star
 TIC900544616,instrument_glitch
-TIC945783481,starspots
+TIC945783481,planet
 TIC961616526,quiet_star
 TIC980925917,starspots
 TIC970328198,starspots
@@ -6408,7 +6408,7 @@ TIC902485038,pulsating_star
 TIC905573138,quiet_star
 TIC943776041,planet
 TIC987755542,pulsating_star
-TIC96918753,background_binary
+TIC96918753,planet
 TIC907218848,planet
 TIC933602963,eclipsing_binary
 TIC970003262,flare_star
@@ -6439,8 +6439,8 @@ TIC985680411,quiet_star
 TIC91860561,quiet_star
 TIC983382924,pulsating_star
 TIC977126291,starspots
-TIC927330531,starspots
-TIC957078537,quiet_star
+TIC927330531,planet
+TIC957078537,instrument_glitch
 TIC999973464,background_binary
 TIC961468195,eclipsing_binary
 TIC904906188,flare_star
@@ -6558,7 +6558,7 @@ TIC998418651,quiet_star
 TIC969339561,planet
 TIC904014069,pulsating_star
 TIC929307486,starspots
-TIC957493331,quiet_star
+TIC957493331,planet
 TIC905833043,eclipsing_binary
 TIC944691650,planet
 TIC99738751,pulsating_star
@@ -6625,7 +6625,7 @@ TIC966307173,starspots
 TIC975676671,pulsating_star
 TIC967505256,quiet_star
 TIC987485230,background_binary
-TIC978518770,background_binary
+TIC978518770,planet
 TIC974122244,pulsating_star
 TIC991964062,starspots
 TIC902167570,pulsating_star
@@ -6684,7 +6684,7 @@ TIC950975840,flare_star
 TIC959311371,instrument_glitch
 TIC902463746,pulsating_star
 TIC909092117,instrument_glitch
-TIC983569476,pulsating_star
+TIC983569476,planet
 TIC964125032,eclipsing_binary
 TIC92342547,starspots
 TIC912735623,quiet_star
@@ -6703,7 +6703,7 @@ TIC949021421,eclipsing_binary
 TIC987771269,planet
 TIC943878986,instrument_glitch
 TIC947263560,starspots
-TIC981692339,starspots
+TIC981692339,planet
 TIC95960174,instrument_glitch
 TIC957978930,background_binary
 TIC952571238,starspots
@@ -6718,7 +6718,7 @@ TIC986717435,background_binary
 TIC995811237,starspots
 TIC940954283,starspots
 TIC969427914,planet
-TIC997721707,quiet_star
+TIC997721707,background_binary
 TIC968721427,flare_star
 TIC906819281,starspots
 TIC944614932,planet
@@ -6819,7 +6819,7 @@ TIC901384066,starspots
 TIC942312423,background_binary
 TIC910590131,quiet_star
 TIC928533176,quiet_star
-TIC997858231,pulsating_star
+TIC997858231,starspots
 TIC922365171,instrument_glitch
 TIC968368659,planet
 TIC920969496,eclipsing_binary
@@ -6889,7 +6889,7 @@ TIC91467566,eclipsing_binary
 TIC980627656,planet
 TIC975984217,planet
 TIC990826830,pulsating_star
-TIC943740407,pulsating_star
+TIC943740407,starspots
 TIC961240652,instrument_glitch
 TIC926347490,starspots
 TIC965710967,pulsating_star
